@@ -15,8 +15,7 @@ _You **can** combine them_
 
 As Kanye West said:
 
-> We're living the future so
-> the present is our past.
+> We're living the future so the present is our past.
 
 You can use the click here(http://) to maintain and preview the content for your website in Markdown files.
 
