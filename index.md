@@ -25,6 +25,10 @@ I think you should use an
         $.facebox({div:'#foo'})
       }
     }
+    
+    def foo():
+    if not bar:
+        return True
 
 You can use the click here(http://) to maintain and preview the content for your website in Markdown files.
 
