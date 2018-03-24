@@ -17,6 +17,9 @@ As Kanye West said:
 
 > We're living the future so the present is our past.
 
+I think you should use an
+`<addr>` element here instead.
+
 You can use the click here(http://) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
