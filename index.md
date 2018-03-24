@@ -8,6 +8,8 @@ Format: ![Alt Text](url)
 *This text will be italic*
 _This will also be italic_
 
+**This text will be bold**
+__This will also be bold__
 
 You can use the click here(http://) to maintain and preview the content for your website in Markdown files.
 
