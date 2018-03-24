@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](http://www.giallozafferano.it) to maintain and preview the content for your website in Markdown files.
 
-![GitHub Logo](iu.jpeg.png)
+![GitHub Logo](img/cat.png)
 Format: ![Alt Text](url)
 
 You can use the click here(http://) to maintain and preview the content for your website in Markdown files.
