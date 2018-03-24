@@ -26,9 +26,10 @@ I think you should use an
       }
     }
     
-    def foo():
-    if not bar:
-        return True
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 You can use the click here(http://) to maintain and preview the content for your website in Markdown files.
 
