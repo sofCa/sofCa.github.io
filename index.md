@@ -11,6 +11,8 @@ _This will also be italic_
 **This text will be bold**
 __This will also be bold__
 
+_You **can** combine them_
+
 You can use the click here(http://) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
