@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](http://www.giallozafferano.it) to maintain and preview the content for your website in Markdown files.
 
-![GitHub Logo](img/cat.png)
+![big cat](img/cat.png)
 
 
 *This text will be italic*
